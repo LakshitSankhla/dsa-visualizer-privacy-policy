@@ -2,7 +2,7 @@
 **DSA Visualizer**
 
 **Effective Date:** February 26, 2026  
-**Last Updated:** February 26, 2026
+**Last Updated:** March 1, 2026
 
 ## 1. Overview
 
@@ -16,6 +16,7 @@ We do not require account creation. Most app data is stored locally on your devi
 - Learning progress and completion status
 - App settings and preferences
 - Bookmarks and related in-app state
+- Personal notes you write against individual algorithms (free-text, stored locally only)
 
 This local data is used only to provide app features and personalization inside the app.
 
@@ -50,7 +51,7 @@ We share limited data only as needed to operate the app, primarily with:
 ## 5. Data Retention
 
 - Local app data remains on your device until you reset app data or uninstall.
-- Ad-related data is retained by Google based on Google’s own retention policies.
+- Ad-related data is retained by Google based on Google's own retention policies.
 
 ## 6. Security
 
@@ -74,5 +75,5 @@ We may update this policy when app features, legal requirements, or third-party 
 
 For privacy questions, contact:
 
-- **Developer:** EdgeWorks
+- **Developer:** Lakshit Sankhla
 - **Email:** sankhla.lakshit27@gmail.com
