@@ -2,7 +2,7 @@
 **DSA Visualizer**
 
 **Effective Date:** February 26, 2026  
-**Last Updated:** March 4, 2026
+**Last Updated:** March 8, 2026  
 
 ## 1. Overview
 
@@ -59,15 +59,15 @@ We use platform-provided protections and standard app security practices. No met
 
 ## 7. Age Requirements and Children's Privacy
 
-**DSA Visualizer is intended for users aged 10 and older.**
+**DSA Visualizer is intended for users aged 13 and older.**
 
-We do not knowingly collect personal information from children under 10. If you are under 10, please do not use this app or provide any information.
+We do not knowingly collect personal information from children under 13. If you are under 13, please do not use this app or provide any information.
 
-If you are a parent or guardian and believe your child under 10 has provided information to us, please contact us immediately at sankhla.lakshit27@gmail.com and we will delete such information promptly.
+If you are a parent or guardian and believe your child under 13 has provided information to us, please contact us immediately at sankhla.lakshit27@gmail.com and we will delete such information promptly.
 
-**Additional protections for users under 13:**
+**COPPA Compliance:**
 - We comply with COPPA (Children's Online Privacy Protection Act)
-- Ad personalization may be restricted based on age and region
+- We do not knowingly serve personalised ads to users under 13
 - Consent mechanisms are provided where required by law
 
 ## 8. Your Rights
