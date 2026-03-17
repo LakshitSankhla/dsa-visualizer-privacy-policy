@@ -2,7 +2,7 @@
 **DSA Visualizer**
 
 **Effective Date:** February 26, 2026  
-**Last Updated:** March 8, 2026  
+**Last Updated:** March 17, 2026  
 
 ## 1. Overview
 
@@ -22,16 +22,20 @@ This local data is used only to provide app features and personalization inside 
 
 ### 2.2 Advertising Data (Google AdMob)
 
-We use Google AdMob to show ads in the free version of the app.  
-When ads are enabled, Google may process data such as:
-- Advertising ID (or similar device identifiers)
-- Device/app information
-- Approximate location inferred from IP address
-- Ad interaction and performance events
+We use Google AdMob to show non-intrusive, educational, and PG-rated advertisements in the app.
+When ads are enabled, Google and its third-party ad network partners may process data to serve ads. This may include:
+- Advertising ID (such as the Apple Identifier for Advertisers or Android Advertising ID)
+- Device and app usage information
+- Approximate/coarse location inferred from IP address
+- Ad interaction and performance events (e.g., clicks, impressions)
 
-AdMob data processing is governed by Google policies:
-- https://policies.google.com/privacy
-- https://support.google.com/admob/answer/6128543
+**How Google Uses Your Data:**
+To learn more about how Google uses data when you use our app, please visit:
+[How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites)
+
+AdMob data processing is governed by Google’s policies:
+- [Google Privacy Policy](https://policies.google.com/privacy)
+- [AdMob Policies](https://support.google.com/admob/answer/6128543)
 
 ## 3. Consent and Ad Controls
 
@@ -57,18 +61,16 @@ We share limited data only as needed to operate the app, primarily with:
 
 We use platform-provided protections and standard app security practices. No method of storage/transmission is guaranteed to be 100% secure.
 
-## 7. Age Requirements and Children's Privacy
+## 7. Age Requirements and Content Safety
 
-**DSA Visualizer is intended for users aged 13 and older.**
+**DSA Visualizer is intended for users aged 13 and older (students, developers, and educators).**
 
-We do not knowingly collect personal information from children under 13. If you are under 13, please do not use this app or provide any information.
+We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child under 13 has provided information to us, please contact us immediately, and we will delete such information promptly.
 
-If you are a parent or guardian and believe your child under 13 has provided information to us, please contact us immediately at sankhla.lakshit27@gmail.com and we will delete such information promptly.
-
-**COPPA Compliance:**
-- We comply with COPPA (Children's Online Privacy Protection Act)
-- We do not knowingly serve personalised ads to users under 13
-- Consent mechanisms are provided where required by law
+**Content Safety & Ad Policy:**
+- **PG Rating:** We strictly limit all advertisements shown in the app to a "PG" (Parental Guidance) or lower content rating via the Google AdMob SDK. We actively block mature, gambling, dating, and alcohol-related ad categories.
+- **COPPA Compliance:** We comply with COPPA (Children's Online Privacy Protection Act). Our app is not directed at toddlers/young children, and we configure our ad requests to explicitly prevent personalized, child-directed data tracking policies.
+- Consent mechanisms (UMP) are provided to strictly adhere to GDPR, CCPA, and similar regional laws.
 
 ## 8. Your Rights
 
